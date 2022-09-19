@@ -1,0 +1,9 @@
+Prepoznavanje lica kori�tenjem haar i lbph algoritma
+
+1. Prvo je potrebno izvr�iti detekciju novog lica, pokrecuci Detekcija.py -> potrebno je unijeti ID korisnika 
+(vec je unesen 1,2 i 8) u skladu s time u Prepoznavanje.py, odrediti za unesni ID ime korisnika
+2. Zatim je potrebno pokrenuti Ucenje.py, da bi se pomocu algoritma program "naucio" sa kojim licima radi
+3. Pokretanjem Prepoznavanje.py, program detektuje lica i vr�i prepoznavanje na osnovu naucenih vrijednosti
+
++"/"+str(conf)
+
